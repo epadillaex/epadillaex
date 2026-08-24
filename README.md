@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-<img src="./assets/banner.png" alt="Esther Padilla — Analista de Datos | Matemática | AI Engineer" width="100%">{=html}
+<img src="./assets/banner.png" alt="Esther Padilla — Analista de Datos | Matemática | AI Engineer" width="100%">
 
 
 <h2 align="center">
