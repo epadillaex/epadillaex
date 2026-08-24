@@ -10,6 +10,6 @@
 <p align="center">Soy Analista de Datos con formación en Matemáticas, Modelización
 Matemática e Inteligencia Artificial.</p>
 <p align="center">Me interesa transformar datos complejos en soluciones útiles para
-**entender problemas, automatizar procesos y apoyar la toma de
-decisiones**.</p>
+entender problemas, automatizar procesos y apoyar la toma de
+decisiones.</p>
 
