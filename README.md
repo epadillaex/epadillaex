@@ -14,3 +14,10 @@ decisiones**.
 📧 [Email](mailto:epadillaex@gmail.com) · 💼
 [LinkedIn](https://www.linkedin.com/in/esther-padilla-exposito/) · 🐙
 [GitHub](https://github.com/epadillaex)
+
+
+<p align="center">
+	<a href="mailto:epadillaex@gmail.com"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" title='Gmail' alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/esther-padilla-exposito/"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" title='LinkedIn' alt="LinkedIn"/></a>
+	
+	
