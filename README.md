@@ -6,8 +6,8 @@
 <p align="center">
 	<a href="mailto:epadillaex@gmail.com"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" title='Gmail' alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/esther-padilla-exposito/"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" title='LinkedIn' alt="LinkedIn"/></a>
-	<a href="https://public.tableau.com/">
-        <img width="40px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" title="Tableau" alt="Tableau"/>
+	<a href="https://public.tableau.com/app/profile/esther.padilla/vizzes">
+        <img width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" title="Tableau" alt="Tableau"/>
     </a>
 </p>
 
