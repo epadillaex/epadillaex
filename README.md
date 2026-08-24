@@ -22,6 +22,7 @@ decisiones.</p>
 </div>
 
 <p align="center">
+	<img src="https://skillicons.dev/icons?i=py" title="Python" />&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=github" title="GitHub" />&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=md" title="Markdown" />&nbsp;&nbsp;&nbsp;
