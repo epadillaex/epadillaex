@@ -16,7 +16,15 @@ decisiones.</p>
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h2 style="display: inline-block"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px"> - Stack tecnológico</h2>
+      <h2 style="display: inline-block"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px"> Stack tecnológico</h2>
     </summary>
   </ul>
 </div>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=md" title="Markdown" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />&nbsp;&nbsp;&nbsp;
+	<br><br>
+</p>
