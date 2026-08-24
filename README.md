@@ -7,11 +7,9 @@
 	<a href="mailto:epadillaex@gmail.com"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" title='Gmail' alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/esther-padilla-exposito/"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" title='LinkedIn' alt="LinkedIn"/></a>
 
-
-	Soy **Analista de Datos** con formación en **Matemáticas, Modelización
-Matemática e Inteligencia Artificial**.
-
-Me interesa transformar datos complejos en soluciones útiles para
+<h3 align="center">Soy **Analista de Datos** con formación en **Matemáticas, Modelización
+Matemática e Inteligencia Artificial**.</h3>
+<p align="center">Me interesa transformar datos complejos en soluciones útiles para
 **entender problemas, automatizar procesos y apoyar la toma de
-decisiones**.
-	
+decisiones**.</p>
+
