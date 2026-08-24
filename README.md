@@ -25,7 +25,6 @@ decisiones.</p>
 	<img src="https://skillicons.dev/icons?i=py" title="Python" />&nbsp;&nbsp;&nbsp;
 	<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;&nbsp;&nbsp;
 	<img src="https://skillicons.dev/icons?i=latex" title="LaTeX" />&nbsp;&nbsp;&nbsp;
-	<br><br>
 	<img src="https://skillicons.dev/icons?i=sklearn" title="Sklearn" />&nbsp;&nbsp;&nbsp;
 	<img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" />&nbsp;&nbsp;&nbsp;
 	<img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" />&nbsp;&nbsp;&nbsp;
