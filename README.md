@@ -6,6 +6,10 @@
 <p align="center">
 	<a href="mailto:epadillaex@gmail.com"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" title='Gmail' alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/esther-padilla-exposito/"><img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" title='LinkedIn' alt="LinkedIn"/></a>
+	<a href="https://public.tableau.com/">
+        <img width="26px" src="https://cdn.simpleicons.org/tableau/E97627" title="Tableau" alt="Tableau"/>
+    </a>
+</p>
 
 <p align="center">Soy Analista de Datos con formación en Matemáticas, Modelización
 Matemática e Inteligencia Artificial.</p>
