@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**epadillaex/epadillaex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+::: {align="center"}
+<img src="./assets/banner.png" alt="Esther Padilla — Analista de Datos | Matemática | AI Engineer" width="100%">{=html}
+:::
 
-Here are some ideas to get you started:
+<h2 align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Analista de Datos · Matemática · AI Engineer
+
+</h2>
+
+<p align="center">
+
+Transformo datos en información útil para entender problemas,
+automatizar procesos y apoyar decisiones.
+
+</p>
+
+<p align="center">
+
+<a href="mailto:epadillaex@gmail.com">{=html}📧 Email</a>{=html} ·
+<a href="https://github.com/epadillaex">{=html}🐙 GitHub</a>{=html}
+· <a href="https://www.linkedin.com/in/esther-padilla-exposito/">{=html}💼
+LinkedIn</a>{=html}
+
+</p>
