@@ -9,3 +9,8 @@ Matemática e Inteligencia Artificial**.
 Me interesa transformar datos complejos en soluciones útiles para
 **entender problemas, automatizar procesos y apoyar la toma de
 decisiones**.
+
+
+📧 [Email](mailto:epadillaex@gmail.com) · 💼
+[LinkedIn](https://www.linkedin.com/in/esther-padilla-exposito/) · 🐙
+[GitHub](https://github.com/epadillaex)
