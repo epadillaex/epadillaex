@@ -13,3 +13,4 @@ Matemática e Inteligencia Artificial.</p>
 entender problemas, automatizar procesos y apoyar la toma de
 decisiones.</p>
 
+### 🛠️ Stack tecnológico
