@@ -23,9 +23,17 @@ decisiones.</p>
 
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=py" title="Python" />&nbsp;&nbsp;&nbsp;
+	<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;&nbsp;&nbsp;
+	<img src="https://skillicons.dev/icons?i=latex" title="LaTeX" />&nbsp;&nbsp;&nbsp;
+	<br><br>
+	<img src="https://skillicons.dev/icons?i=sklearn" title="Sklearn" />&nbsp;&nbsp;&nbsp;
+	<img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" />&nbsp;&nbsp;&nbsp;
+	<img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" />&nbsp;&nbsp;&nbsp;
+	<br><br>
     <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=github" title="GitHub" />&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=md" title="Markdown" />&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />&nbsp;&nbsp;&nbsp;
+	<img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm" />&nbsp;&nbsp;&nbsp;
 	<br><br>
 </p>
